@@ -35,9 +35,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.postgres',
     #
-    'applications.autor',
-    'applications.libro',
-    'applications.lector',
+    'app.autor',
+    'app.libro',
+    'app.lector',
 ]
 
 MIDDLEWARE = [
